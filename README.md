@@ -44,7 +44,7 @@
 
 <h3>📈 Stock System</h3>
 <p>
-  <a href="GITHUB_LINK">
+  <a href="https://github.com/yesu0208/stock-system">
     <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="DEMO_LINK">
