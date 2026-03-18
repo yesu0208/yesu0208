@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1>안녕하세요</h1>
+<p>
+</p>
+<h2>기술 스택</h2>
 
-<!--
-**yesu0208/yesu0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>💻 Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>&nbsp
+</p>
 
-Here are some ideas to get you started:
+<h3>🌐 Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"/>&nbsp
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>⚙️ DevOps / Infra</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square"/>&nbsp
+</p>
+
+<h3>🗄️ Database</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square"/>&nbsp
+</p>
