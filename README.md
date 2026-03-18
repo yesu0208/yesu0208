@@ -44,7 +44,7 @@
 
 <h2>📌 Projects</h2>
 
-<h3>📈 Stock System</h3>
+<h3>📈 Stock System(Major project)</h3>
 <p>
   <a href="https://github.com/yesu0208/stock-system">
     <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -72,7 +72,9 @@
   메모리 관리 및 커널 레벨 기능 구현 경험
 </p>
 
-<h3>📈 Stock System</h3>
+<br/>
+
+<h3>📈 Stock Service(Minor project)</h3>
 <p>
   <a href="https://github.com/yesu0208/stock-service">
     <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
