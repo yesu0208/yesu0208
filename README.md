@@ -47,7 +47,7 @@
   <a href="https://github.com/yesu0208/stock-system">
     <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="DEMO_LINK">
+  <a href="https://stock-system.cloud">
     <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
   </a>
 </p>
