@@ -4,7 +4,9 @@
 
 <h2>🏅 Certifications</h2>
 <p>
-  <img src="https://img.shields.io/badge/AWS Solutions Architect Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <a href="https://www.credly.com/badges/1b38b45c-21a4-49fb-82ed-9a9e9504168e/public_url">
+    <img width="220" height="220" alt="copyImage" src="https://github.com/user-attachments/assets/227a1d5c-334d-4a3c-a135-53ad28f110be" />
+</a>
 </p>
 
 <h2>🚀 Tech Stack</h2>
