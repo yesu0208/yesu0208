@@ -1,7 +1,11 @@
-<h1>안녕하세요</h1>
+<h1>안녕하세요!</h1>
 <p>
 </p>
-<h2>기술 스택</h2>
+
+<h3>🏅 Certifications</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS Solutions Architect Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 <h3>🚀 Tech Stack</h3>
 
