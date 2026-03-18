@@ -54,8 +54,9 @@
   </a>
 </p>
 <p>
-  모의 투자 및 주식 관리 시스템<br/>
+  모의투자 및 주식관리 시스템<br/>
   Spring Boot 기반 REST API 서버 및 AWS 인프라 구축
+  실시간 호가창, (자동)주문/취소, 실시간 계좌 정보
 </p>
 
 <br/>
@@ -70,3 +71,17 @@
   xv6 운영체제 확장 (COW, mmap, 스케줄러 구현)<br/>
   메모리 관리 및 커널 레벨 기능 구현 경험
 </p>
+
+<h3>📈 Stock System</h3>
+<p>
+  <a href="https://github.com/yesu0208/stock-service">
+    <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<p>
+  주식 관심종목 관리 시스템<br/>
+  Spring Boot 기반 REST API 서버
+  실시간 시세, 관심종목 관리, 종목토론방(게시판), 종목톡
+  Heroku 배포
+</p>
+
