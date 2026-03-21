@@ -55,7 +55,7 @@
 </p>
 <p>
   모의투자 및 주식관리 시스템<br/>
-  Spring Boot 기반 REST API 서버 및 AWS 인프라 구축
+  Spring Boot 기반 REST API 서버 및 AWS 인프라 구축<br/>
   실시간 호가창, (자동)주문/취소, 실시간 계좌 정보
 </p>
 
@@ -79,10 +79,13 @@
   <a href="https://github.com/yesu0208/stock-service">
     <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://dashboard.heroku.com/apps/stock-service">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
+  </a>
 </p>
 <p>
   주식 관심종목 관리 시스템<br/>
-  Spring Boot 기반 REST API 서버
-  실시간 시세, 관심종목 관리, 종목토론방(게시판), 종목톡
+  Spring Boot 기반 REST API 서버<br/>
+  실시간 시세, 관심종목 관리, 종목토론방(게시판), 종목톡<br/>
   Heroku 배포
 </p>
