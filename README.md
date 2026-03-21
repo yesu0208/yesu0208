@@ -79,7 +79,7 @@
   <a href="https://github.com/yesu0208/stock-service">
     <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://dashboard.heroku.com/apps/stock-service">
+  <a href="https://stock-service-89300edadb9e.herokuapp.com/">
     <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
   </a>
 </p>
