@@ -2,9 +2,6 @@
 <p>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arile)](https://solved.ac/arile) 
-
 <h2>🏅 Certifications</h2>
 <p>
   <a href="https://www.credly.com/badges/1b38b45c-21a4-49fb-82ed-9a9e9504168e/public_url">
